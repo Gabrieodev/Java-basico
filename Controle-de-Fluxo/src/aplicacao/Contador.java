@@ -1,8 +1,7 @@
 package aplicacao;
 
-import java.util.Scanner;
-
 import exceptions.ParametrosinvalidosExeption;
+import java.util.Scanner;
 
 public class Contador {
 
